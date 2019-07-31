@@ -1,2 +1,2 @@
 # github
-just another repository
+hi everyone
